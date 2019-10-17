@@ -1,6 +1,0 @@
-# compile vhdl design source files
-vhdl xil_defaultlib  "../../../../HDLmodel/mux21_1.vhd"
-vhdl xil_defaultlib  "../../../../HDLmodel/testbench/mux21_1_TB.vhd"
-
-# Do not sort compile order
-nosort
