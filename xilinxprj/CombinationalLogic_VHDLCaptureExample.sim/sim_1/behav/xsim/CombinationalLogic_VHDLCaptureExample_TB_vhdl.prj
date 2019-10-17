@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../HDLmodel/CombinationalLogic_VHDLCaptureExample.vhd" \
+"../../../../../HDLmodel/testbench/CombinationalLogic_VHDLCaptureExample_TB.vhd" \
+
+# Do not sort compile order
+nosort

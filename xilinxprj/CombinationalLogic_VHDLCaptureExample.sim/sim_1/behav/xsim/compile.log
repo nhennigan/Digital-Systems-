@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/vicilogic/vicidownload2/viciLabUser/sample_projects/myProjects/CombinationalLogic_VHDLCaptureExample/vhdl/HDLmodel/CombinationalLogic_VHDLCaptureExample.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'CombinationalLogic_VHDLCaptureExample'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/vicilogic/vicidownload2/viciLabUser/sample_projects/myProjects/CombinationalLogic_VHDLCaptureExample/vhdl/HDLmodel/testbench/CombinationalLogic_VHDLCaptureExample_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'CombinationalLogic_VHDLCaptureExample_TB'
